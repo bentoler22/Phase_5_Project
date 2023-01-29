@@ -39,7 +39,7 @@ The final model included 100 features. Fake news articles showed a higher freque
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Fake News Detection.ipynb) or review this [presentation](./presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./Fake_News_Detection.ipynb) or review this [presentation](./presentation.pdf).
 
 For additional info, contact Benjamin Toler at [bentoler22@gmail.com](mailto:alison.bentoler22@gmail.com)
 
