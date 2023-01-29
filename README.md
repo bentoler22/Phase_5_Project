@@ -11,7 +11,7 @@ This project uses text data from over 44,000 articles to develop a text classifi
 The social media company facebook is looking to reduce the sharing of misinformation on its platform. Having widespread misinformation on the platform may discourage new users and may cause the platform to lose existing customers. Additionally, reducing fake articles on the platform could remove any potential legal issues.
 
 ## Data
-This project uses multiple datasets of consisting of 44,706 news articles from online publications, primarily Reuters and BuzzFeed. The data is fairly balanced, having about 54% of the data being real news articles and 46% being fake articles.
+This project uses three datasets consisting of 44,706 news articles from online publications, primarily Reuters and BuzzFeed. The data can be found on Kaggle with the follwing two links, [Link1](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) [Link2](https://www.kaggle.com/datasets/hassanamin/textdb3). The data is fairly balanced, having about 54% of the data being real news articles and 46% being fake articles.
 
 ![balanced_data](./images/balanced_data.png)
 
