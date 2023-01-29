@@ -25,7 +25,7 @@ The final model was an XGboost classifier. The data had stopwords removed and wa
 ![final_cm](./images/final_cm.png)
 
 The final model included 100 features. Fake news articles showed a hgiher frequency of political figure names as shown below.
-![feature_importance](./images/feature_importance.png)
+![word_frequency](./images/word_frequency.png)
 
 ## Conclusions
 - **Use model to identify and remove fake news articles from platform:** With a 96% accuracy, facebook can condifidently and quickly idenitfy fake news articles being shared and remove them from the paltform.
